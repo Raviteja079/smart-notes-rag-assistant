@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+data/*
+!data/.gitkeep
+vectorstore/*
+!vectorstore/.gitkeep
+embeddings/*
+!embeddings/.gitkeep
+vectorstore_test/
